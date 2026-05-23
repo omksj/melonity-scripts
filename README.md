@@ -1,2 +1,2 @@
 # melonity-scripts
-custom scripts for melonity
+custom scripts for melonity, author cryst
